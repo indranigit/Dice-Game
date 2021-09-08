@@ -1,0 +1,49 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  
+  body {
+    background-color:#F0D9FF;
+    background-size: cover;
+    margin: 0 auto;
+    opacity:0.75;
+  }
+  
+  h1 {
+    margin: 30px;
+    font-family:cursive;
+    font-size:100px;
+    color: #6155A6;
+  }
+  
+  p {
+    font-size: 50px;
+    color:#11324D;
+    font-family: 'Dancing Script', cursive;
+  }
+  
+  img {
+    width: 80%;
+  }
+
+  footer{
+	  color: #6155A6;
+   	position: absolute;
+    left: 20px;
+    bottom: 5px;
+    overflow: hidden; 
+    font-family:cursive;
+    font-size: 120%;
+}
+a:hover{
+  font-size:130%;
+
+}
