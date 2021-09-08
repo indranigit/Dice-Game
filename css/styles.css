@@ -36,8 +36,11 @@
 .foot{
 	position:absolute;
 	right:20px;
+	bottom:5px;
 	font-family:cursive;
 	font-size:120%;
+	overflow:hidden;
+	
 }
 
   footer{
