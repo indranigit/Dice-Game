@@ -34,7 +34,7 @@
     width: 80%;
   }
 p.foot{
-	position:absolute;
+	position:fixed;
 	right:20px;
 	bottom:0px;
 	font-family:cursive;
