@@ -33,6 +33,13 @@
   img {
     width: 80%;
   }
+.foot{
+	position:absolute;
+	right:30px;
+	bottom:5px;
+	font-family:cursive;
+	font-size:120%;
+}
 
   footer{
 	  color: #6155A6;
