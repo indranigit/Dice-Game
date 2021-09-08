@@ -33,10 +33,10 @@
   img {
     width: 80%;
   }
-.foot{
+p.foot{
 	position:absolute;
 	right:20px;
-	bottom:5px;
+	bottom:0px;
 	font-family:cursive;
 	font-size:120%;
 	overflow:hidden;
